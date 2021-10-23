@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notteshock&row=1" alt="notteshock" /></a> </p>
 
-![Kruistz's GitHub stats](https://github-readme-stats.vercel.app/api?username=notteshock&theme=tokyonight&show_icons=true)
+![NotteShock's GitHub stats](https://github-readme-stats.vercel.app/api?username=notteshock&theme=tokyonight&show_icons=true)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notteshock&show_icons=true&locale=en&layout=compact&count_private=true&bg_color=00000000&text_color=808080&hide_border=true" alt="notteshock" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=notteshock&theme=onedark&hide_border=true&background=00000000&stroke=80808080" alt="notteshock" />
